@@ -1,1 +1,1 @@
-# CS2-Project
+# CSCE1101-Project
